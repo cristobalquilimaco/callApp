@@ -41,8 +41,10 @@ const {clients } = useAppContext()
       Cristobal Quilimaco
     </p>
     <p>
-      Git Hub
-    </p>
+  <a href="https://github.com/cristobalquilimaco/callApp" target="_blank" rel="noopener noreferrer">
+    GitHub
+  </a>
+</p>
   </footer>
 </div>
   );
