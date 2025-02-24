@@ -1,0 +1,17 @@
+[
+  { "id": 1, "name": "Juan", "lastName": "Pérez", "status": "available" },
+  { "id": 2, "name": "María", "lastName": "Gómez", "status": "available" },
+  { "id": 3, "name": "Carlos", "lastName": "López", "status": "available" },
+  { "id": 4, "name": "Ana", "lastName": "Martínez", "status": "available" },
+  { "id": 5, "name": "Pedro", "lastName": "Fernández", "status": "available" },
+  { "id": 6, "name": "Lucía", "lastName": "Ramírez", "status": "available" },
+  { "id": 7, "name": "Sergio", "lastName": "Hernández", "status": "available" },
+  { "id": 8, "name": "Elena", "lastName": "Torres", "status": "available" },
+  { "id": 9, "name": "Miguel", "lastName": "Castro", "status": "available" },
+  { "id": 10, "name": "Paula", "lastName": "Ortega", "status": "available" },
+  { "id": 11, "name": "Diego", "lastName": "Morales", "status": "available" },
+  { "id": 12, "name": "Valentina", "lastName": "Rojas", "status": "available" },
+  { "id": 13, "name": "Fernando", "lastName": "Navarro", "status": "available" },
+  { "id": 14, "name": "Isabel", "lastName": "Mendoza", "status": "available" },
+  { "id": 15, "name": "Ricardo", "lastName": "Vargas", "status": "available" }
+]

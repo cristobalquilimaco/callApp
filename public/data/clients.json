@@ -1,0 +1,22 @@
+[
+    { "id": 1, "name": "Carlos", "lastname": "Mendoza" },
+    { "id": 2, "name": "Ana", "lastname": "Rodríguez" },
+    { "id": 3, "name": "Javier", "lastname": "Gómez" },
+    { "id": 4, "name": "Lucía", "lastname": "Fernández" },
+    { "id": 5, "name": "Martín", "lastname": "Pérez" },
+    { "id": 6, "name": "Sofía", "lastname": "Herrera" },
+    { "id": 7, "name": "Andrés", "lastname": "López" },
+    { "id": 8, "name": "Beatriz", "lastname": "Sánchez" },
+    { "id": 9, "name": "Fernando", "lastname": "Díaz" },
+    { "id": 10, "name": "Gabriela", "lastname": "Torres" },
+    { "id": 11, "name": "Ricardo", "lastname": "Ramírez" },
+    { "id": 12, "name": "Valentina", "lastname": "Castro" },
+    { "id": 13, "name": "Emilio", "lastname": "Vargas" },
+    { "id": 14, "name": "Natalia", "lastname": "Jiménez" },
+    { "id": 15, "name": "Pablo", "lastname": "Ríos" },
+    { "id": 16, "name": "Laura", "lastname": "Estrada" },
+    { "id": 17, "name": "Diego", "lastname": "Salazar" },
+    { "id": 18, "name": "Carmen", "lastname": "Aguilar" },
+    { "id": 19, "name": "Esteban", "lastname": "Morales" },
+    { "id": 20, "name": "Paola", "lastname": "Ramírez" }
+]

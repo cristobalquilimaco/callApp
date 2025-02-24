@@ -1,0 +1,37 @@
+.agentContainer{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5em;
+}
+
+.listAgent {
+    border-radius: 10px;
+    list-style: none;
+    padding: 10px;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    -webkit-box-shadow: 0px 0px 13px 5px rgba(0,0,0,0.14);
+    -moz-box-shadow: 0px 0px 13px 5px rgba(0,0,0,0.14);
+    box-shadow: 0px 0px 13px 5px rgba(0,0,0,0.14);
+  }
+  
+  .listAgentId {
+    display: flex;
+    align-items: center; 
+    gap: 1em; 
+    padding: 2px 12px;
+    width: 100%;
+    text-align: left; 
+  }
+  
+  .listAgentId i {
+    font-size: 20px; 
+    color: #6200ea; 
+  }
+  
